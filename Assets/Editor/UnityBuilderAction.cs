@@ -12,7 +12,7 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "SKibd Colorear";
-        private static string COMPANY_NAME = "1691052563557600227520";
+        private static string COMPANY_NAME = "1691055742610817744965";
         private static string BUILD_VERSION_NAME = "1.2.7";
         private static string PACKAGENAME = "com.animension.zoroto";
         private static string PATH_KEYSTORE = "data.keystore";
